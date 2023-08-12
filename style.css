@@ -4,7 +4,7 @@ img {
 
 img.scale {
   transform: scaleX(2);
-}
+ }
 
 img.rotate {
   transform: rotate(20deg);
